@@ -1,3 +1,4 @@
+<img width="1222" height="721" alt="Overview" src="https://github.com/user-attachments/assets/6b2c267b-f344-4b63-8cc2-cb734c9e0257" />
 # ⚽ Football-Performance-Analysis
 
 End-to-end data analytics project: cleaning a 170K-row football dataset, exploring it, building a machine learning model to predict player match ratings, and presenting the results in an interactive Power BI dashboard.
@@ -46,6 +47,23 @@ Tree-based models (Random Forest, XGBoost) were trained directly on raw data wit
 
 ### 4. Power BI Dashboard
 A 4-page interactive dashboard (Overview, Player Analysis, Team Analysis, Model Evaluation) built on the XGBoost model's predictions, with cross-filtering by league, team, and match result. All model-evaluation metrics are computed on test-set rows only, to avoid inflating reported accuracy with training data the model had already seen.
+
+
+### Overview
+<img width="1300" height="700" alt="Overview" src="https://github.com/user-attachments/assets/e503ac79-4174-42cc-a78c-252375bf7545" />
+
+
+### Player Analysis
+<img width="1300" height="700" alt="Player Analysis" src="https://github.com/user-attachments/assets/4fcb9ec7-209d-479c-85da-ec5e63ba1715" />
+
+
+### Team Analysis
+<img width="1300" height="700" alt="Team Analysis" src="https://github.com/user-attachments/assets/b3b4cd6a-eae3-4647-b159-1ca43be2ae0a" />
+
+
+### Model Evaluation
+<img width="1300" height="700" alt="Model Evaluation" src="https://github.com/user-attachments/assets/d62dafd9-2966-4e33-9270-eb9e3faaf64b" />
+
 
 
 ## Key Insights
