@@ -1,4 +1,3 @@
-<img width="1222" height="721" alt="Overview" src="https://github.com/user-attachments/assets/6b2c267b-f344-4b63-8cc2-cb734c9e0257" />
 # ⚽ Football-Performance-Analysis
 
 End-to-end data analytics project: cleaning a 170K-row football dataset, exploring it, building a machine learning model to predict player match ratings, and presenting the results in an interactive Power BI dashboard.
